@@ -1,6 +1,6 @@
 # additional-8.1
-# write def total_rain(year): ... on line 3
 
+def total_rain(year):
     total = sum(year)
     print("Total rainfall in a year is %0.2f" %total)
 
